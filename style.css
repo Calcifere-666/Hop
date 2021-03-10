@@ -1,0 +1,98 @@
+.body{
+
+   background: url(https://jack35.files.wordpress.com/2014/06/131.gif);
+   font-family:Bahnschrift;
+   height: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+
+.button{
+
+    background-image: url(https://i.pinimg.com/originals/16/09/d9/1609d959aaaad6ebaeaaa40013f9db41.gif);
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	text-align: right;
+	position: relative;
+	padding: 25px 50px;
+	font-size: 50px;
+	top:75px;
+	left: 450px;
+	border: 0px solid gray;
+	border-radius:4px;
+	color: white;
+
+}
+
+.texte{
+    
+    position: relative;
+    top: 60px;
+    font-size: 22px; 
+    margin: 20px;
+    left: 20px;
+}
+
+.text2{
+
+    padding: 20px;
+    text-decoration:underline;
+    position: relative;
+    margin-left:325px ; 
+
+}
+
+.first{
+
+	background-image: url(https://i.pinimg.com/originals/16/09/d9/1609d959aaaad6ebaeaaa40013f9db41.gif);
+	position: relative;
+	color: white;
+	height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: none;
+    border-radius:6px;
+
+}
+
+.choisir{
+
+    padding: 20px;
+    position: relative;
+    margin-left:485px ; 
+
+}
+
+.mha{
+
+    background-image: url(https://i.pinimg.com/originals/16/09/d9/1609d959aaaad6ebaeaaa40013f9db41.gif);
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	text-align: right;
+	position: relative;
+	padding: 25px 50px;
+	font-size: 50px;
+	top:150px;
+	border: 0px solid gray;
+	border-radius:4px;
+	color: white;
+	margin-left: 10px;
+
+}
+
+.snk{
+
+    background-image: url(https://i.pinimg.com/originals/16/09/d9/1609d959aaaad6ebaeaaa40013f9db41.gif);
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	text-align: right;
+	position: relative;
+	padding: 25px 50px;
+	font-size: 50px;
+	top:150px;
+	border: 0px solid gray;
+	border-radius:4px;
+	color: white;
+	margin-left: 150px;
+
+}
